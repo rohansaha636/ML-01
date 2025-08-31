@@ -21,7 +21,4 @@ This is a full-stack **Machine Learning Web App** that predicts whether a studen
 - **Frontend**: React, Tailwind CSS, Axios  
 - **Backend**: FastAPI, Python, joblib, scikit-learn  
 - **ML**: Logistic Regression Model
-- 
----
-
-## 📂 Project Structure
+  
