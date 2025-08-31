@@ -2,7 +2,7 @@ import joblib
 import numpy as np
 
 # Load model once
-model = joblib.load("app/models/placement_model.pkl")
+model = joblib.load("app/models/model2.pkl")
 
 def predict_placement(cgpa: float, iq: int) -> str:
     X = np.array([[cgpa, iq]])
