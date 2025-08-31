@@ -20,5 +20,5 @@ def home():
 
 @app.post("/predict", response_model=PlacementResponse)
 def predict(data: PlacementRequest):
-    result = predict_placement(data.cgpa, data.iq)
+    result = predict_placement(data.cgpa, data.internship)
     return {"placement": result}
