@@ -1,6 +1,6 @@
 # 🎓 Placement Prediction App
 
-This is a full-stack **Machine Learning Web App** that predicts whether a student will get placed or not based on their **CGPA** and **IQ**.  
+This is a full-stack **Machine Learning Web App** that predicts whether a student will get placed or not based on their **CGPA** and **Internships**.  
 
 - **Backend**: FastAPI (Python)  
 - **Frontend**: React + Tailwind CSS  
@@ -10,7 +10,7 @@ This is a full-stack **Machine Learning Web App** that predicts whether a studen
 ---
 
 ## 🚀 Features
-- Input **CGPA** and **IQ** to get placement prediction.  
+- Input **CGPA** and **Internships** to get placement prediction.  
 - **Machine Learning model** trained with Logistic Regression.  
 - REST API backend with **FastAPI**.  
 - Interactive **React frontend** with Tailwind CSS.  
