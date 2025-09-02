@@ -7,6 +7,7 @@ import os
 data = pd.read_csv("collegePlace.csv")
 
 data.columns = data.columns.str.strip()
+#gftgyfghjfgkh
 
 # Features (X) and Target (y)
 X = data[["Internships", "CGPA"]]
